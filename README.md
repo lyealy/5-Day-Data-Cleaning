@@ -7,3 +7,4 @@ The dataset can be downloaded via
 1. (Practice 1)https://www.kaggle.com/rtatman/data-cleaning-challenge-handling-missing-values/data
 2. (Practice 2)https://www.kaggle.com/rtatman/data-cleaning-challenge-scale-and-normalize-data/data
 3. (Practice 3)https://www.kaggle.com/rtatman/data-cleaning-challenge-parsing-dates/data
+4. (Practice 4)https://www.kaggle.com/rtatman/data-cleaning-challenge-character-encodings/data
