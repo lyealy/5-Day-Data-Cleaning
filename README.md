@@ -8,3 +8,4 @@ The dataset can be downloaded via
 2. (Practice 2)https://www.kaggle.com/rtatman/data-cleaning-challenge-scale-and-normalize-data/data
 3. (Practice 3)https://www.kaggle.com/rtatman/data-cleaning-challenge-parsing-dates/data
 4. (Practice 4)https://www.kaggle.com/rtatman/data-cleaning-challenge-character-encodings/data
+5. (Practice 5)https://www.kaggle.com/rtatman/data-cleaning-challenge-inconsistent-data-entry/data
